@@ -1,13 +1,10 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Yadgarov Fayzullo</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
-<img align="right" alt="Coding" width="400" src="https://www.youtube.com/watch?v=G-EGDH50hGE">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadgarovfayzullo&label=Profile%20views&color=0e75b6&style=flat" alt="yadgarovfayzullo" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
 <a href="https://www.leetcode.com/yadgarov77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yadgarov77" height="30" width="40" /></a>
 </p>
