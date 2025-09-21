@@ -54,12 +54,17 @@
 <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/zustand.png" alt="zustand" width="40" height="40"/> 
 </a>
-
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a>
+   <a href="https://vercel.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://assets.vercel.com/image/upload/v1662130559/front/favicon/vercel/57x57.png" alt="vercel" width="40" height="40"/> 
+  </a>
+  <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="40" height="40"/> 
   </a>
 </p>
 
