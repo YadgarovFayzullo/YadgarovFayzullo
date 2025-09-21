@@ -49,10 +49,10 @@
     <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" alt="supabase" width="40" height="40"/> 
   </a> 
  <a href="https://zod.dev/" target="_blank" rel="noreferrer"> 
-  <img src="https://zod.dev/logo.svg" alt="zod" width="40" height="40"/> 
-</a> 
+  <img src="https://raw.githubusercontent.com/colinhacks/zod/master/logo.svg" alt="zod" width="40" height="40"/> 
+</a>
 <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/zustand.png" alt="zustand" width="40" height="40"/> 
+  <img src="https://avatars.githubusercontent.com/u/42167826?s=200&v=4" alt="zustand" width="40" height="40"/> 
 </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
@@ -66,6 +66,9 @@
   <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg" alt="cloudflare" width="40" height="40"/> 
   </a>
+  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://ui.shadcn.com/favicon.ico" alt="shadcn" width="40" height="40"/> 
+</a>
 </p>
 
 <p>
